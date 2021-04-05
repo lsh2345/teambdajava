@@ -1,7 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = false
-	bare = true
-	logallrefupdates = false
-[remote "origin"]
-	url = https://github.com/13y73026816/teambdajava.git
